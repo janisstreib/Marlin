@@ -27,8 +27,8 @@
 //
 // EEPROM
 //
-#define FLASH_EEPROM_EMULATION
-//#define SDCARD_EEPROM_EMULATION
+//#define FLASH_EEPROM_EMULATION
+#define SDCARD_EEPROM_EMULATION
 
 //
 // Include SKR 1.4 pins
